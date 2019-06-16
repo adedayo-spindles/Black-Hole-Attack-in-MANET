@@ -35,6 +35,7 @@ You are done with it!
 ---------------------------------------------------------------------------------------------------
 
 AFTER done these steps download the zipped folder from the link given below and extract the files from it:
+https://github.com/stereci/Black-Hole-Attack-in-MANET/blob/master/sample-program-blackhole-ns3.zip
 
 Put both the extracted files in the following folder:
 
